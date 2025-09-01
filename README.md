@@ -14,15 +14,8 @@
 ```
 warehouse-agv-optimizer/
 ├── README.md
-├── main.py # 主程式入口
-├── agv/ # 模組（路徑、能源、批次等）
-│ ├── routing.py
-│ ├── energy.py
-│ └── ...
-├── notebook/ # Demo、分析與結果展示
-│ └── demo.ipynb
-├── data/ # 測試數據與參數
-└── results/ # 結果與報告
+├── main.py
+└── energy.py
 ```
 ## 使用方法
 
