@@ -49,7 +49,7 @@ python main.py
 Project structure (suggested)
 
 ```
-warehouse-agv-optimizer/
+warehouse-agv-optimizer
 ├── README.md            # this file
 ├── main.py              # example entrypoint: run experiments and visualize results
 ├── energy.py            # energy model and helper functions
