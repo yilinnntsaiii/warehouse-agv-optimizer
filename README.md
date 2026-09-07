@@ -71,11 +71,3 @@ Contributions are welcome. Suggested workflow:
 1. Fork the repository
 2. Create a topic branch for your changes
 3. Open a pull request describing the change and why it is needed
-
-License
-
-Add a LICENSE file in the repository root (e.g. MIT License).
-
-Contact
-
-If you have questions or find issues, please open an issue on GitHub or contact the repository owner.
